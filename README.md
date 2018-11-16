@@ -12,6 +12,7 @@ OpenLRSng Wiki
 * [Using receivers as transmitters](https://github.com/openLRSng/openLRSngWiki/wiki/Using-Receiver-as-transmitter)
 * [Feature comparison of supported hardware](https://github.com/openLRSng/openLRSngWiki/wiki/supported-hardware---feature-table)
 * [Note on Spektrum TX compatibility] (https://github.com/openLRSng/openLRSngWiki/wiki/Note-on-Spektrum-transmitter-compatibility-(DX8-DX9-etc.))
+* [Building with Visual Studio Code and PlatformIO](https://github.com/openLRSng/openLRSngWiki/wiki/Building)
 
 This repository should only be used to store images and additional content used in the wiki.
 
